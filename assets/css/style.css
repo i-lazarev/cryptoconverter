@@ -1,0 +1,9 @@
+html, body {
+    height:100%;
+}
+
+body {
+    background: url('/assets/images/money.jpg') center center no-repeat  rgba(0,0,0,0.6);
+    background-size: cover;
+    background-blend-mode: multiply;
+}
