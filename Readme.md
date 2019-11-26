@@ -19,5 +19,5 @@ The app will convert the given currency to the chosen fiat one.
 
 
 ### Stages:
-1 - Create the logic your own way!
+1 - Create the logic your own way!  
 2 - Refactor your code to use a Class
